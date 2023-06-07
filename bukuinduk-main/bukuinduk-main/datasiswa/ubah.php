@@ -84,8 +84,9 @@ if( isset($_POST["submit"])){
             </li>
             <li>
                 <label for="gender">Jenis Kelamin : </label>
-                <input type="text" name="gender" id="gender"
-                value="<?= $siswa["gender"]; ?>">
+                <input name="gender" type="radio" value="<?= $siswa["gender"]; ?>" />Pria
+                <input name="gender" type="radio" value="<?= $siswa["gender"]; ?>" />Wanita
+                
             </li>
             <li>
                 <label for="agama">Agama : </label>

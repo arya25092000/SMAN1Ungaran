@@ -33,13 +33,13 @@ if( isset($_POST["register"])){
 <form action="" method="post">
 
  
-            <label for="username">username :</label>
+            <label for="username">Username :</label>
             <input type="text" name="username" id="username">
     
-            <label for="password">password :</label>
+            <label for="password">Password :</label>
             <input type="password" name="password" id="password">
      
-            <label for="password2">konfirmasi password :</label>
+            <label for="password2">Konfirmasi Password :</label>
             <input type="password" name="password2" id="password"2>
         
             <button type="submit" name="register">Register!</button>

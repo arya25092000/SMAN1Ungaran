@@ -39,7 +39,7 @@ if( isset($_POST["submit"])){
     <link rel="stylesheet" href="css/styleinput.css">
 </head>
 <body>
-
+    
     <h1> Input data siswa</h1>
 
     <div class="kotak_input">
@@ -74,7 +74,6 @@ if( isset($_POST["submit"])){
             
                 <label for="gender">Jenis Kelamin : </label>
                 <input type="text" name="gender" id="gender">
-            
             
                 <label for="agama">Agama : </label>
                 <input type="text" name="agama" id="agama">

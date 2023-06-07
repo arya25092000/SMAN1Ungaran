@@ -57,6 +57,11 @@ a {
   width: 150px;
 }
 
+.register-login-text {
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+}
+
 form {
   margin: 20px 0;
 }

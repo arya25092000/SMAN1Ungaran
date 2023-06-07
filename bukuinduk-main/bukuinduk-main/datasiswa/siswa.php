@@ -116,7 +116,7 @@ if (isset($_POST["tipe"])) {
             <option value="2006">2029</option>
             <option value="2006">2030</option>
         </select>
-        <input name="cetak" value="cetak" type="submit"/>
+        <input name="cetak" value="Cetak" type="submit"/>
     </form>
    </div>
    <br><br>
