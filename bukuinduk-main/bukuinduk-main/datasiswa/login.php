@@ -84,9 +84,6 @@ if (isset($_POST["login"])) {
 
             <label for="password">Password :</label>
             <input type="password" name="password" id="password">
-
-            <label for="remember">Remember Me</label>
-            <input type="checkbox" name="remember" id="remember">
         
             <button type="submit" name="login">Login</button>
             
